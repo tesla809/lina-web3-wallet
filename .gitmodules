@@ -1,0 +1,3 @@
+[submodule "lina-contracts/lib/forge-std"]
+	path = lina-contracts/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
